@@ -72,6 +72,13 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sqlite-task-manager",
+      "title": "Persistindo Dados com SQLite",
+      "description": "Crie um gerenciador de tarefas no terminal com Python e SQLite, praticando persistência e operações CRUD com a biblioteca padrão.",
+      "path": "assignments/sqlite-task-manager",
+      "dueDate": "2026-11-25"
     }
   ]
 }
